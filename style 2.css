@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+}
+ol,li{
+    padding: 10px;
+}
+body{
+    background-color: aquamarine;
+    color: black;
+}

@@ -1,0 +1,24 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: chocolate;
+    color: white;
+}
+.input{
+    padding-left: 40%;
+    margin-top: 70px;
+    width: 100px;
+    height: auto;
+}
+td{
+    padding: 10px;
+}
+.message{
+    width: 178px;
+    height: 50px;
+}
+h1{
+    text-align: center;
+}
